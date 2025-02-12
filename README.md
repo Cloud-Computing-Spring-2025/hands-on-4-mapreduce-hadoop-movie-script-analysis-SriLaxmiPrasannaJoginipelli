@@ -86,29 +86,29 @@ Ron: We could all have been killed - or worse, expelled.
 
 ### Task 1:
 
-Draco_a	13
-Draco_abilities	4
-Draco_act	3
-Draco_after	1
-Draco_aims	1
-Draco_all	15
-Draco_always	3
-Draco_am	3
-Draco_and	31
+-Draco_a	13
+-Draco_abilities	4
+-Draco_act	3
+-Draco_after	1
+-Draco_aims	1
+-Draco_all	15
+-Draco_always	3
+-Draco_am	3
+-Draco_and	31
 ...
 
 ### Task 2:
 
-Draco	5198
-Dumbledore	5230
-Hagrid	5508
-Harry	3875
-Hermione	4722
-Lupin	5046
-Ron	5837
-Sirius	4340
-Snape	4049
-Voldemort	5058
+-Draco	5198
+-Dumbledore	5230
+-Hagrid	5508
+-Harry	3875
+-Hermione	4722
+-Lupin	5046
+-Ron	5837
+-Sirius	4340
+-Snape	4049
+-Voldemort	5058
 
 
 ### Task 3:
