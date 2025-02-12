@@ -14,6 +14,17 @@ public class UniqueWordsMapper extends Mapper<Object, Text, Text, Text> {
 
     @Override
     public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
+        String line = value.toString().trim();
+        if (line.isEmpty() || !line.contains(":")) return;
 
+        String[] parts = line.split(":", 2);
+        if (parts.length < 2) return;
+
+        character.set(parts[0].trim());
+        StringTokenizer tokenizer = new StringTokenizer(parts[1].toLowerCase().replaceAll("[^a-zA-Z ]", ""));
+        while (tokenizer.hasMoreTokens()) {
+            word.set(tokenizer.nextToken());
+            context.write(character, word);
+        }
     }
 }
