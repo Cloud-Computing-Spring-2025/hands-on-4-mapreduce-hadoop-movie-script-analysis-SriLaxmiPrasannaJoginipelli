@@ -84,6 +84,8 @@ Ron: We could all have been killed - or worse, expelled.
 
 ### OutPut Data
 
+### Task 1:
+
 Draco_a	13
 Draco_abilities	4
 Draco_act	3
@@ -94,6 +96,27 @@ Draco_always	3
 Draco_am	3
 Draco_and	31
 ...
+
+### Task 2:
+
+Draco	5198
+Dumbledore	5230
+Hagrid	5508
+Harry	3875
+Hermione	4722
+Lupin	5046
+Ron	5837
+Sirius	4340
+Snape	4049
+Voldemort	5058
+
+
+### Task 3:
+
+-Draco	[been, pity, your, finds, mothers, clever, severus, you, going, leviosar, am, easy, as, at, wanted, wander, wand, twelve, must, looking, choices, much, deal, be, another, dead, turn, eyes, seek, youre, increases, found, are, does, examined, after, takes, a, mind, one, words, i, enemies, possible, right, the, call, face, wizard, to, thing, open, did, but, bed, die, friendship, sometimes, dwell, language, do, source, inside, got, good, either, act, habit, duck, rubber, things, warning, scary, up, those, us, expelled, need, this, its, worse, never, name, know, page, little, notsohumble, expecto, waiting, idea, book, show, for, impossible, wingardium, choose, we, not, inexhaustible, sorry, happiness, now, trouble, lived, sir, potter, just, live, bloody, brilliant, living, go, killed, with, what, there, time, swear, bravery, youll, hell, years, far, lost, usually, truly, if, azkaban, between, fear, im, in, nothing, come, is, it, itself, books, even, light, love, harry, differences, patronum, solemnly, our, weak, theres, too, get, have, remembers, dark, optimist, power, stand, leisure, more, could, kill, great, anythings, opinion, choice, fun, magic, before, feel, abilities, identical, that, than, function, me, only, all, always, mr, kind, touch, opened, my, friends, both, most, important, professor, forget, nerve, leviosa, evil, darkest, dont, who, no, part, dreams, weve, boy, can, cleverness, times, youve, and, of, hearts, on, or, aims, will, enough, exactly, chooses, any, matters]
+
+-Dumbledore	[been, pity, your, without, mothers, finds, clever, severus, you, going, want, loyal, leviosar, am, easy, something, glory, as, at, wanted, left, wander, twelve, must, looking, choices, much, deal, be, another, comes, dead, weasley, turn, bottle, eyes, youre, increases, how, are, managed, examined, after, takes, funny, a, mind, one, words, i, enemies, right, possible, many, the, face, stopper, afraid, to, thing, did, open, but, bed, die, friendship, sometimes, language, do, source, good, got, either, act, habit, school, duck, rubber, things, warning, scary, up, us, those, expelled, this, its, worse, never, name, know, page, little, notsohumble, expecto, waiting, idea, book, show, for, choose, wingardium, we, not, inexhaustible, sorry, trouble, lived, just, bloody, brilliant, living, teach, go, killed, with, what, there, time, bravery, swear, youll, none, hell, when, years, put, far, lost, usually, darkness, truly, if, azkaban, between, fear, im, in, nothing, is, come, it, brew, itself, books, light, even, thats, love, harry, differences, patronum, solemnly, our, weak, get, have, dark, optimist, stand, leisure, mischief, more, could, kill, great, opinion, anythings, choice, magic, before, feel, abilities, identical, that, find, function, than, me, only, all, always, king, opened, my, friends, important, most, nerve, leviosa, fame, dont, who, here, no, death, part, boy, cleverness, can, youve, and, of, hearts, on, aims, or, will, enough, exactly, any, matters, forms]...
+
  
 
 
